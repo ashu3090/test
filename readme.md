@@ -1,0 +1,1 @@
+We have started with git , learn the basic commands and then disucss about the git services and learn vercel how to deploy the webpages.
